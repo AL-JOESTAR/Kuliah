@@ -1,0 +1,20 @@
+pemrogramna mobile
+
+uts : Proposal (4 orang)
+- app flow
+- info grafis
+- 
+uas : Project base
+
+web behance -> cari ide
+
+tentukan masalah -> latar belakang
+manfaatkan sensor dalam hp
+
+sensor maps :
+- latitude
+- longitude
+- speed
+
+
+
